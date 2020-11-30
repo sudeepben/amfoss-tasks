@@ -1,7 +1,7 @@
 
 var message = "Hi"; //spam message 
 var interval = 1  ; // in seconds 
-var count = 2; //number of times to send
+var count = 1000 ; //number of times to send
 var notifyInterval = 5 ; //notify 
 var i = 0 ;
 var timer = setInterval(function(){
