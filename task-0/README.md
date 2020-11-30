@@ -16,7 +16,7 @@
 
 9)Created Root,swap,home partations.Then i faced an issue with EFI system partation 
 
-10)Created seperate EFI partation and procse with installation
+10)Created seperate EFI partation and proceeded with installation
 
 11)Installed 19.10 version and upgraded to 20.04 successfully.
 
